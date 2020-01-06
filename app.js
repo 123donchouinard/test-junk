@@ -5,7 +5,7 @@
 
 //String, Numbers, Boolean, null, undefined, symbol
 
-const name ='Curly';
+const name ='Moe';
 const age = 4.5;
 const isCool = true;
 const x = null;
