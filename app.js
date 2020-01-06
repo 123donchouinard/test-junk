@@ -14,3 +14,4 @@ let z;
 
 console.log(typeof age);
 console.log(`My name is ${name} and I am ${age}.`);
+
